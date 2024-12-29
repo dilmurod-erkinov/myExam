@@ -1,0 +1,17 @@
+.footer__second{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer__first{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer__hr{
+    border: none;
+    height: 2px;
+    background: grey;
+}

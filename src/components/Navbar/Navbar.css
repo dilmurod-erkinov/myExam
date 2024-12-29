@@ -1,0 +1,88 @@
+.navbar__all{
+    background: url(../../assets//logo3.png);
+    height: auto;
+    padding-bottom: 160px;
+}
+.navbar__hr{
+    border: none;
+    height: 2px;
+    background: rgb(152, 152, 152);
+    margin: 20px 0;
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar__first{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.navbar__img{
+    position: relative;
+    bottom: 4px;
+}
+.navbar__list{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    list-style: none;
+}
+.navbar__item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 90px;
+}
+.navbar__title{
+    margin-top: 80px;
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: 72px;
+    color: white;
+    letter-spacing: 4px;
+}
+.navbar__text{
+    text-align: center;
+    margin-bottom: 40px;
+    color: rgb(152, 152, 152);
+    font-weight: 400;
+    font-size: 16px;
+}
+.navbar__btn{
+    margin-bottom: 70px;
+    background: #34C759;
+    border-radius: 40px;
+    border: none;
+    padding: 25px 58px 25px 58px;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 20%;
+    margin-left: 530px;
+}
+.span{
+    font-weight: lighter;   
+}
+.navbar__third{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.navbar__icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navDiv__title{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.navDiv__text{
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}

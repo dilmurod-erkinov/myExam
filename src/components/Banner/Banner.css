@@ -1,0 +1,149 @@
+.banner__first{
+    text-align: center;
+    background: #252525;
+}
+.bannerFirst__title{
+    position: relative;
+    bottom: 55px;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 5px;
+}
+.bannerFirst__text{
+    color: rgb(152, 152, 152);
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.bannerFirst__logo{
+    margin-top: 100px;
+}
+.bannerSecond__divs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bannerSecond__div{
+    background: #252525;
+    border-radius: 6px;
+    padding: 15px;
+    padding-bottom: 40px;
+}
+.bannerSecond__div1{
+    background: #34C759;
+    border-radius: 6px;
+    padding: 15px;
+    padding-bottom: 40px;
+}
+.bannerSecond__title1{
+    font-weight: 400;
+    font-size: 22px;
+}
+.bannerSecond__title{
+    color: white;
+    font-weight: 400;
+    font-size: 22px;
+}
+.bannerSecond__text{
+    color: rgb(152, 152, 152);
+}
+.bannerSecond__img{
+    margin-left: 350px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.banner__hr1{
+    border: none;
+    height: 2px;
+    background: black;
+    width: 60px;
+    margin: 20px 0;
+}
+.banner__hr{
+    border: none;
+    height: 2px;
+    background: green;
+    width: 60px;
+    margin: 20px 0;
+}
+.third__img{
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.blyudalar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.blyudo{
+    background: #252525;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.blyudo-title{
+    color: white;
+    font-weight: 400;
+    font-size: 32px;
+}
+.blyudoFirst__text{
+    color: rgb(152, 152, 152);
+    margin-bottom: 30px;
+}
+.blyudoSecond__text{
+    color: rgb(152, 152, 152);
+    margin-bottom: 30px;
+}
+.stars{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.blyudo__btn{
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: 12px;
+    background: #34C759;
+    padding: 15px 42px ;
+    border: none;
+    border-radius: 40px;
+}
+.banner__fourth{
+    padding-bottom: 100px;
+}
+.fourth__img{
+    margin-left: 60px;
+}
+.groups{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fifth__img{
+    margin-left: 80px;
+}
+.fifth__div{
+    display: flex;
+    align-items: center;
+    margin-left: 75px;
+    gap: 20px;
+}
+.six__banner{
+    padding-bottom: 100px;
+}
+.six__img{
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.six__div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
